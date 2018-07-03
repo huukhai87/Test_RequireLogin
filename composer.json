@@ -10,6 +10,12 @@
             "name": "Khai Nguyen"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:huukhai87/Test_RequireLogin.git"
+        }
+    ],
     "require": {
         "php": "~5.6.0|7.0.2|~7.0.6"
     },
